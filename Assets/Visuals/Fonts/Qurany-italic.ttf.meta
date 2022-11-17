@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 77f17f07072c00949a46215534bfc064
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Qurany
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6327c5a98b738b4448ad8298415c43b1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

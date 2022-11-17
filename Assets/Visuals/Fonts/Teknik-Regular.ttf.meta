@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: efb3f78e156320440975f9d33a92a7bc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Teknik
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: faa50937a7fc0e240b5df8e65d3d1670, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

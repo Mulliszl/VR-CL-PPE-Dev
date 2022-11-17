@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e7b6fadfac49ba54f8271d95a4e136e4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Earthbound
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c32d60009ea113e40a6b4c228e06578c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

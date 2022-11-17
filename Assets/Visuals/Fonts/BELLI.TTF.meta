@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 26598236cfdeeee468081b569b54a087
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bell MT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 559b925e3faa8854aa03056a1a245ac3, type: 3}
+  - {fileID: 12800000, guid: a0a91c552b784224fb6189c1a5c55cf1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

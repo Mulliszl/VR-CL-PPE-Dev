@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 76a028fb565b4f440a0c21d1013bcedb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - NewsGoth BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 61cc00795388e34469137daba310ab8e, type: 3}
+  - {fileID: 12800000, guid: 61ac0ef0c686db040bd9963fe209549f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: da1923802d2a85c4fa77f4ca884e91d1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hollywood Hills Expanded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 12b51c767430d7347bc28dd2f8b95852, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

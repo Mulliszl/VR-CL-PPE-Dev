@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 194564c591c187d47a16a27bf9f7ac0e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sonder Slab
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e546ae44cf17d654e8a64bcbdf35e49c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

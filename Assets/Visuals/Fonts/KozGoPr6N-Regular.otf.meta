@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 1d8c363cd02aa544fa3833362d97e86e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kozuka Gothic Pr6N
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 28af7da836433fe44a2a6db4f422cec8, type: 3}
+  - {fileID: 12800000, guid: 35eb053ce134b9c4a917ac551311de02, type: 3}
+  - {fileID: 12800000, guid: a2cd9b640c3f3fa4a94a527260a7c9ec, type: 3}
+  - {fileID: 12800000, guid: 2a869c07fc0514f45b4f2eb20b69f50e, type: 3}
+  - {fileID: 12800000, guid: f1f5ed6f12a252942b32f6fdb413db89, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

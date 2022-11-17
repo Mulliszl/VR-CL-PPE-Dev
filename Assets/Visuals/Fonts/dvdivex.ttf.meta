@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3e6493dd0ebf09f449dc5b7063e5aebc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DV_Divyae
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c1259a3ae901f9d4c8147012eb27762d, type: 3}
+  - {fileID: 12800000, guid: 6a9f2ecaa6e05804b8256dd9d60aa61f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

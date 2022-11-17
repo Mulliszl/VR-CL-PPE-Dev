@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7ff19ba0e0fc5c74f8c68abf4255f019
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SF Fortune Wheel Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1bca2aafb37d1c44c90e50f89453d169, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

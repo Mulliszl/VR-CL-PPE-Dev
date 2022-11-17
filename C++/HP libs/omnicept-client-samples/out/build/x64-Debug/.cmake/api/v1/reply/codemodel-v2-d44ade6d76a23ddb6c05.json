@@ -1,0 +1,194 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "omnicept-shared",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "omnicept-shared",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "omnicept-setup",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "omnicept-setup",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "omnicept-lvc",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "omnicept-lvc",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "omnicept-callback",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "omnicept-callback",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "omnicept-licensing",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "omnicept-licensing",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "omnicept-subscriptions",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "omnicept-subscriptions",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"name" : "omnicept-client-samples",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "omnicept-callback::@1d65a506f2ceb6554347",
+					"jsonFile" : "target-omnicept-callback-Debug-3c7f2d457d1220f9d353.json",
+					"name" : "omnicept-callback",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "omnicept-licensing::@1b70368af845a153231d",
+					"jsonFile" : "target-omnicept-licensing-Debug-24c15fff7d315895a6a0.json",
+					"name" : "omnicept-licensing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "omnicept-lvc::@96fe5dce7a8335145023",
+					"jsonFile" : "target-omnicept-lvc-Debug-80e54da267a8b2d3e06b.json",
+					"name" : "omnicept-lvc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "omnicept-setup::@068c8f4de591aaeba278",
+					"jsonFile" : "target-omnicept-setup-Debug-227cbab9e897b5fe891c.json",
+					"name" : "omnicept-setup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "omnicept-shared::@26127fa6b14c737a48b3",
+					"jsonFile" : "target-omnicept-shared-Debug-9692626777ddf083e31a.json",
+					"name" : "omnicept-shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "omnicept-subscriptions::@c66ec3e5ab976be188f4",
+					"jsonFile" : "target-omnicept-subscriptions-Debug-1de75737c07b3f2a83c8.json",
+					"name" : "omnicept-subscriptions",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/broch/Documents/Unity/vr-ppe/C++/HP libs/omnicept-client-samples/out/build/x64-Debug",
+		"source" : "C:/Users/broch/Documents/Unity/vr-ppe/C++/HP libs/omnicept-client-samples"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

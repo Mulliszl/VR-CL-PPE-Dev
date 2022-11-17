@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Cognitive Load/invisible_menu.unity
+    guid: 316a8c7ead88de142902780c9d935008
+  - enabled: 1
+    path: Assets/Scenes/Cognitive Load/Calcul/Cognitive-load-static-math.unity
+    guid: 9074851f96077094db4ac66a8c3e6376
+  - enabled: 1
+    path: Assets/Scenes/Cognitive Load/Multi task/Legacy/Grand Menu.unity
+    guid: 2e716a28330a68a459e5cb97165a971b
+  - enabled: 1
+    path: Assets/Scenes/Cognitive Load/Multi task/Cognitive-load-static-full-game.unity
+    guid: 33558f3b553ece0429780bf28af77a34
+  - enabled: 1
+    path: Assets/Scenes/Cognitive Load/Multi task/Legacy/Cognitive-load-static-tutoriel.unity
+    guid: 5ed9611c9a373b54394f6e35d377ef2f
+  - enabled: 1
+    path: Assets/Scenes/Cognitive Load/Multi task/Legacy/Menu Principal.unity
+    guid: 177e3408fa3534a409dd85d9cf18fe28
+  - enabled: 1
+    path: Assets/Scenes/Cognitive Load/Multi task/Legacy/GameOverScreen.unity
+    guid: 5a9ba9cfb8998e74f81962890cca2f0b
+  - enabled: 1
+    path: Assets/Scenes/Network/test_casque.unity
+    guid: 8a441d5e0f835a1469add0ff3e3f3915
+  - enabled: 1
+    path: Assets/Scenes/Network/mlapi_lan_networking.unity
+    guid: 1a81636e4c7393745bcc7cfa350c25ee
+  - enabled: 1
+    path: Assets/Scenes/Tests/action based input.unity
+    guid: 73a41988ebb81d346b700f0a25f8cf51
+  - enabled: 1
+    path: Assets/Scenes/Tests/n-back.unity
+    guid: 21ef31e650da00a4fa758da2307d6d6d
+  - enabled: 1
+    path: Assets/Scenes/Cognitive Load/Triple Task calcul/TripleTaskCalcul.unity
+    guid: ec8969d642a28cf408fef6365fd4c0ae
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: dc792fa7c7c96834b9a1ef04914d2b9d, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: de39e813400bc934f929d52dfc28008b, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 80abb288e010e46418f7966c9213be75, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: eb1d8393ad78532429058eb38aa7d6d2, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a7e5b82329d28f04bb0f30a1d9b6dd1d, type: 2}

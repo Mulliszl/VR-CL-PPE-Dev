@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ae7c9c73eee1c1d4eadc54a398eefa11
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Space Cruiser
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 48a35b9bf5dc2d545a6e08fecedcc9e4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

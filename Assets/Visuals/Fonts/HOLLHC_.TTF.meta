@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6cb01fdf3bab7a142919ace0479dbec2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hollywood Hills Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d8564ff3ae1f86040a77d1846b434901, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

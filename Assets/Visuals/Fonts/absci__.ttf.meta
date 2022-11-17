@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1ffc148d94ee8e34bbc4b438eec40a2b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Abscissa
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9bdb548ff449b2543883ca376d824492, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

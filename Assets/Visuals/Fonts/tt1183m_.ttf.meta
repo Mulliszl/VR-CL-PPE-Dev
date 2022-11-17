@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8b8806866c25aec42978fb03136af33a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Century751 SeBd BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6afab49deeafb3f4aa800a97b4deccb8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3060 @@
+Timestamp;HeartRate;LeftEyeGazeX;LeftEyeGazeY;LeftEyeGazeZ;LeftEyeGazeConfidence;LeftEyeOpenness;LeftEyeOpennessConfidence;LeftEyePupilDilation;LeftEyePupilDilationConfidence;LeftEyePupilPositionX;LeftEyePupilPositionY;RightEyeGazeX;RightEyeGazeY;RightEyeGazeZ;RightEyeGazeConfidence;RightEyeOpenness;RightEyeOpennessConfidence;RightEyePupilDilation;RightEyePupilDilationConfidence;RightEyePupilPositionX;RightEyePupilPositionY;CombinedGazeX;CombinedGazeY;CombinedGazeZ;CombinedGazeConfidence;CognitiveLoadValue;CognitiveLoadStandardDeviation1633431263;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431263;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431263;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431263;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431263;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431263;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431263;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431263;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431263;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431263;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431263;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431263;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431263;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431263;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431263;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431263;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431264;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431265;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431266;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431267;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431267;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431267;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431267;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431267;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431267;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431267;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431267;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431267;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431267;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431267;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431267;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431267;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431267;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431267;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431267;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431267;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+
+1633431267;Eye Tracking: [ Left Eye Gaze: [0, 0, 0], Confidence: 0.8
+Right Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Position: [0, 0], Confidence: 0
+Right Pupil Position: [0, 0], Confidence: 0
+Combined Eye Gaze: [0, 0, 0], Confidence: 0.8
+Left Pupil Dilation: 3.2, Confidence: 0.8
+Right Pupil Dilation: 3.2, Confidence: 0.8
+Left Openness: 0, Confidence: 0
+Right Openness: 0, Confidence: 0 ]
+

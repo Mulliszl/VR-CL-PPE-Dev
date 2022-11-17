@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5ee4dea3595e7644db3b3e5978aecaa6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Century751 No2 BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8b9198b441f950b41881b6b300fd5354, type: 3}
+  - {fileID: 12800000, guid: 86df049e188febc48abe09457949c7d5, type: 3}
+  - {fileID: 12800000, guid: 071312031f08513408b90c0b4d189c5e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

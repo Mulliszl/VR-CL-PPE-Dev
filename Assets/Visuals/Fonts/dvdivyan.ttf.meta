@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 8d82f44d37bac8640b2fae840cb2f423
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DV_Divya
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d4e88f4a3b8498f4a87fdf2c8a053d18, type: 3}
+  - {fileID: 12800000, guid: b0e02f28c2199f14da5298506851a36f, type: 3}
+  - {fileID: 12800000, guid: a1a04d4159373324ea26005fac9d9f84, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

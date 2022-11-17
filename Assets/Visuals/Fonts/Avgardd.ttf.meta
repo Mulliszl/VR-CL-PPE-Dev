@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: fa4354bb2f4c7a3459d75e1904e57703
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - AvantGarde Bk BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f0947caed44db1245826b5ef536bfd82, type: 3}
+  - {fileID: 12800000, guid: e988192ed508328409ed40152776721b, type: 3}
+  - {fileID: 12800000, guid: 35b0a889397930b42bbee864f1974201, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

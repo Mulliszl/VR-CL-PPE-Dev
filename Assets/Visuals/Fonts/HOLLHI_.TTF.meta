@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b7f177a3758360c4ca262439e096fc01
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hollywood Hills
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 82483ff063a37b448b2a20836d5a33bf, type: 3}
+  - {fileID: 12800000, guid: 910f80eb1d8e7194dba4355ac96feeeb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

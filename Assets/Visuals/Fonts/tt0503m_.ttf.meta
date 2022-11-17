@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cfb4c5f794b9bff48b61fe0bade54fb5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Geometr212 BkCn BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: fd62ff661c4ae674da310c9abd1762a4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

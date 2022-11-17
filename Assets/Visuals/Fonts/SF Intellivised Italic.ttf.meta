@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2d3ef5a0a4e7e1c47b9bc2f0c100292a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SF Intellivised
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5aad284d1764fac40b11aaeb79ed4334, type: 3}
+  - {fileID: 12800000, guid: 9604591b223acde40b1116c021687996, type: 3}
+  - {fileID: 12800000, guid: 746eebbce202a414084425fd2fea63cd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

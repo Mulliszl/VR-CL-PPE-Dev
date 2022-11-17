@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6f7aa570e3da45445b638e292413e0de
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SF Intellivised Outline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f27ff62da51718b489f1d7b760b0593f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

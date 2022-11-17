@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3fd747d1f521a1d428c1e32834835798
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FF Yaseer
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d20e9a034d118674d991ac0d3940bdf4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

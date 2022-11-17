@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 8e0c4f63c5cf1094184cf8ac61d78034
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Audrey
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c48285caafa123743801b42f4b19e989, type: 3}
+  - {fileID: 12800000, guid: 4d2b3d4236d43c14cbf60c93942f77e1, type: 3}
+  - {fileID: 12800000, guid: 8978a00905202cc4cb975b8df16d796b, type: 3}
+  - {fileID: 12800000, guid: ac2b5d3871c90894d9fd9a351ff277ed, type: 3}
+  - {fileID: 12800000, guid: 82903b103dbb6b34aa1c108c525621d1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

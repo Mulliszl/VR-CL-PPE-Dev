@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fe672846487f89b43b43c29b56f47f01
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Waukegan LDO Black
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6d721ece1b40de34e93707ef2c4901a9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

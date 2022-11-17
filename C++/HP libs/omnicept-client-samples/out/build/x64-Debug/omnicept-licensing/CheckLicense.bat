@@ -1,0 +1,1 @@
+omnicept-licensing.exe --clientId 265551f8-c21b-451c-91ad-c8d2c0addaa6 --accessKey 0ECdJ0xXK6SD3vcRVyr_QL5-NXgNC78l8SdpNn7UUhnkBzfJE4DU-LArwpkyWd4N --licenseModel 4

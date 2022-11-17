@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b9565386c9105874f9d4deb523bb30ff
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Goudy Old Style
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7476e7c27f3918341967e85ec11358b3, type: 3}
+  - {fileID: 12800000, guid: 238163db8f6286c4ba5dc1211c0a7c39, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

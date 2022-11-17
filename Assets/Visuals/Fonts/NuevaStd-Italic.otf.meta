@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d7e8411501bdfc64281f00ba991a4f53
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Nueva Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2752a5d033ddf4e438792bca13e141b6, type: 3}
+  - {fileID: 12800000, guid: 948e112aa1685d0438c00d986178eb14, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fab0a210d8a1bf249913848c7d9d1add
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Pfennig
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 94a1ad158e36ff944b5f81a85ea97e0c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

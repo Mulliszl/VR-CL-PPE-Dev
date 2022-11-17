@@ -1,0 +1,2 @@
+Pause Rate: 4
+End Rate: 7

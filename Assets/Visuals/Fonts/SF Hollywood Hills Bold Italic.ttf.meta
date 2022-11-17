@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f8cc36ae810061a4cb9bebbf4e51bdfe
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SF Hollywood Hills
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8424d76f238547041a974f3777287306, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

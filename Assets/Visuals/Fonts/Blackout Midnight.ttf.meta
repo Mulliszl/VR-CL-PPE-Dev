@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 185ae980b1779ad4f8ae7c2a877aea0e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Blackout
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d26cfb5234c189f4f9fc1ba430f4ed2e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
