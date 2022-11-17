@@ -1,3 +1,8 @@
+Used for development
+
+## Forked from https://git.enib.fr/g7broche/vr-ppe.git
+
+
 <span style="color:yellow">**WARNING**</span> This project is only compatible with the HP Omnicept reverb G2 VR Headset.
 
 <span style="color:yellow">**WARNING**</span> If you are using a different device the data from the sensors will not be recorded and the controllers may not be recognized.
