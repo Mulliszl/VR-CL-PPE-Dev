@@ -1,6 +1,6 @@
-Used for development
+# Used for development
 
-## Forked from https://git.enib.fr/g7broche/vr-ppe.git
+#### Forked from https://git.enib.fr/g7broche/vr-ppe.git
 
 
 <span style="color:yellow">**WARNING**</span> This project is only compatible with the HP Omnicept reverb G2 VR Headset.
